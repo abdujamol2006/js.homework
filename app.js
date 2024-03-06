@@ -1,4 +1,5 @@
 //10-masala
+
 alert("10-masala");
 
 let tomon1 = +prompt("A tomonni kiriting");
@@ -48,3 +49,15 @@ function formula(kub) {
   return result;
 }
 console.log(formula(son));
+//15-masala
+//alert("15-masala");
+//let son = +prompt("Raqam kiriting");
+//function formater(raqam) {}
+
+//16-masala
+alert("16-masala");
+let raqam = +prompt("Raqam kiriting");
+function ichkiBurchaklar(n) {
+  let result = (n - 2) * 180;
+}
+console.log(ichkiBurchaklar(raqam));
